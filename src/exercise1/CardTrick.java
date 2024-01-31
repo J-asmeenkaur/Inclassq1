@@ -2,6 +2,10 @@ package exercise1;
 
 import java.util.Random;
 import java.util.Scanner;
+/**
+ * @author : jasmeen
+ * @date : 31 Jan, 2023
+ */
 
 public class CardTrick {
 
